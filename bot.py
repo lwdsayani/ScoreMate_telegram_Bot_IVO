@@ -4,6 +4,7 @@ from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTyp
 from config import BOT_TOKEN
 from processor import process_scores
 
+
 # Handler for receiving Excel files
 async def run_program(update: Update, context: ContextTypes.DEFAULT_TYPE):
     document = update.message.document
