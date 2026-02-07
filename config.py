@@ -1,5 +1,5 @@
 # config.py
-BOT_TOKEN = "8285313615:AAFrH6xTBcorrWPgC7ZOEZUYOhMUI_Z7BpE"
+BOT_TOKEN = ""
 
 
 
